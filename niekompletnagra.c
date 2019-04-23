@@ -95,7 +95,7 @@ void odliczanie()
 
 int main()
 {
-    cout << "Wcisnij dowolny klawisz by zaczac grac .." << endl;
+    cout << "Rozpocznij grê klikaj¹c dowolny klawisz .." << endl;
     getch();
     czas_koniec = 60;
     tworzenie_mapy();

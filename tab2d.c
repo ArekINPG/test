@@ -9,6 +9,7 @@ int * Create_tab(int size)
     else
     {
         printf("Alokacja tabliccy pod adresem : %p to %p (%d bytes)\n",temp,&(temp[size-1]),(&(temp[size])-temp));
+        printf("Alokacja jednowymiarowej tablicy zakonczona! on adress : %p to %p (%d bytes)\n",temp,&(temp[size-1]),(&(temp[size])-temp));
     }
     return temp;
 }

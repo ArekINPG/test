@@ -18,6 +18,8 @@ void fillMatrix(double** tab, int n)
             x++;
         }
     }//asd
+//Komentarz na rzecz zmian do Githuba LOL
+    }
 }
 void printMatrix(double** tab, int n)
 {

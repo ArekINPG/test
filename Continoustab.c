@@ -15,6 +15,7 @@ int createContinousMatrix(int*** atab, int n)
     *atab=temp;
     return 0;
 //asd
+//Komentzarz do GitHuba
 }
 void deleteContinousMatrix(int*** atab)
 {

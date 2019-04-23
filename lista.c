@@ -12,7 +12,7 @@ struct lista
     struct lista* next;
 }lista;
 void printList(struct lista *head)
-{
+{//asd
  struct lista* tmp;
  if(head==NULL) return NULL;
  else

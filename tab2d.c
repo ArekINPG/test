@@ -8,7 +8,7 @@ int * Create_tab(int size)
     if(temp==NULL) printf("Allocation fail (2D)");
     else
     {
-        printf("Allocation of 1D array completed! on adress : %p to %p (%d bytes)\n",temp,&(temp[size-1]),(&(temp[size])-temp));
+        printf("Alokacja tabliccy pod adresem : %p to %p (%d bytes)\n",temp,&(temp[size-1]),(&(temp[size])-temp));
     }
     return temp;
 }

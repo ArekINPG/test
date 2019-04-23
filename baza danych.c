@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <math.h>
+#include <stdlib.h>
+#include <stdio.h>
 #define SIZE 5
 struct baza
 {
@@ -19,7 +19,7 @@ void wypisz(struct baza b)
 int i;
 if(b.act_size==0)
 {
-    printf("Baza jest pusta");
+    printf("Baza wydaje siê byæ pusta");
 }
 for(i=0;i<b.act_size;i++)
     {

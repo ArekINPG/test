@@ -20,6 +20,6 @@ int main()
 {
 	int tab[R]={4,2,3,5,9};
 	int *wsk = minimum(tab,R);
-	printf("wartosc minimalna : %d \n wskaznik na ta wartosc : %p",*wsk,wsk);
+	printf("Wartosc minimum : %d \n ze wskaznikiem : %p",*wsk,wsk);
 }
 

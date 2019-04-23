@@ -15,7 +15,7 @@ int main()
     float n=0.0;
     int k=0;
     int w=0;
-    printf("podaj liczbe rzeczywist¹\n");
+    printf("Podaj liczbe ktora jest liczba rzeczywista\n");
     scanf("%f",&n);
     printf("podaj potege do ktorej chcesz podniesc liczbe\n");
     scanf("%i",&k);

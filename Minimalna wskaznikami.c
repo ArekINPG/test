@@ -1,4 +1,4 @@
-#include <stdio.h>
+//asd#include <stdio.h>
 #include <stdlib.h>
 #define R 5
 int * minimum(int *tab,int r)

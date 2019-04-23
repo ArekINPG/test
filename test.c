@@ -17,7 +17,7 @@ void fillMatrix(double** tab, int n)
             tab[i][j]=x;
             x++;
         }
-    }
+    }//asd
 }
 void printMatrix(double** tab, int n)
 {

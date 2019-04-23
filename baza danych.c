@@ -19,7 +19,7 @@ void wypisz(struct baza b)
 int i;
 if(b.act_size==0)
 {
-    printf("Baza wydaje siê byæ pusta");
+    printf("Baza wydaje siê byæ pusta bardzo");
 }
 for(i=0;i<b.act_size;i++)
     {

@@ -27,7 +27,7 @@ for(i=0;i<b.act_size;i++)
         puts(b.tab[i].nazwisko);
         printf("\nImie to");
         puts(b.tab[i].imie);
-        printf("\nNumer to %l",b.tab[i].numer);
+        printf("\nNumer ktory zrobi³eœ to asd %l",b.tab[i].numer);
     }
 }
 int dodaj( struct baza *a_bazy, struct wpis *a_wpisu)

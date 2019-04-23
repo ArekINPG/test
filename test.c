@@ -17,6 +17,7 @@ void fillMatrix(double** tab, int n)
             tab[i][j]=x;
             x++;
         }
+//Komentarz na rzecz zmian do Githuba LOL
     }
 }
 void printMatrix(double** tab, int n)

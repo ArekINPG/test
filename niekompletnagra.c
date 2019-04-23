@@ -1,4 +1,4 @@
-#include<windows.h>
+//asd#include<windows.h>
 #include<conio.h>
 #include<iostream>
 #include<time.h>

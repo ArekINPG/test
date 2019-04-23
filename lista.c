@@ -37,7 +37,7 @@ struct lista* addList(struct lista *head)
  char* imie;
  char* nazwisko;
  int rokuro;
- printf("Podaj imie, nazwisko i rok urodzenia");
+ printf("Podaj swoje: Imie, Nazwisko, Rok urodzenia");
  fgets(tmp->panagodnosc.imie,30,stdin);
  fgets(tmp->panagodnosc.nazwisko,30,stdin);
  scanf("%d",tmp->panagodnosc.rokuro);

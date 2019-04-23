@@ -10,7 +10,7 @@ struct zesp
 
 void wyp(struct zesp z)
 {
-    printf("Liczba to %2f+%2fi\n", z.rzecz, z.uroj);
+    printf("Liczba znaleziona to %2f+%2fi\n", z.rzecz, z.uroj);
 }
 
 struct zesp dodawanie(struct zesp k, struct zesp l)

@@ -17,7 +17,7 @@ struct zesp dodawanie(struct zesp k, struct zesp l)
 {
     k.rzecz+=l.rzecz;
     k.uroj+=l.uroj;
-    return k;
+    return k;//asd
 }
 
 float modul(struct zesp k)

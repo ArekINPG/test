@@ -1,4 +1,4 @@
-#include <stdio.h>
+//asd#include <stdio.h>
 #include <stdlib.h>
 
 int potega(float n,int k)
